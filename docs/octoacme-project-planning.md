@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. UX Designer delivers initial user journeys, wireframes, and design artifacts
+8. QA Lead drafts test plan and defines exit criteria
 
 ## Backlog Item Template
 - Title:

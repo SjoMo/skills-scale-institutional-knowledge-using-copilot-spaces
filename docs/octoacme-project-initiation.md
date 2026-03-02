@@ -8,7 +8,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Goals
 - Confirm business need and measurable outcome
-- Identify stakeholders & champions
+- Identify stakeholders & champions (including a named Stakeholder Representative for key customer or business functions)
 - Define success criteria and initial timeline
 - Decide go/no-go for planning
 
