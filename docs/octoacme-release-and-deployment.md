@@ -1,7 +1,7 @@
 # OctoAcme — Release & Deployment Guide
 
 ## Purpose
-Standardize how OctoAcme releases features to production to reduce risk and improve observability.
+Standardize how OctoAcme releases features to production to reduce risk and improve observability. The Release Manager owns this process, coordinating with dev, QA, and stakeholders to ensure reliable, auditable deployments.
 
 ## Release Types
 - Patch: hotfixes addressing critical production issues
